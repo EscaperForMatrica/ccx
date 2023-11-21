@@ -1,0 +1,210 @@
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#Block1{
+    background-image: url(/home/abdurahman/Desktop/windows/Rectangle.png);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+}
+
+.header div ul li{
+    float: right;
+    color: white;
+    margin-left: 6%;
+    cursor: pointer;
+}
+
+.logo ul li{
+    list-style-type: none;
+}
+
+.logo{
+    margin-right: 20%;
+    padding-top: 26px;
+}
+
+#Block1_text{
+    text-align: center;
+    padding-top: 20%;
+    color: white;
+}
+
+#Block1_text p{
+    font-size: 13px;
+}
+
+#Block1_text h2{
+    color: white;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 64.36px;
+}
+
+#Block1_text button{
+    width: 200px;
+    height: 45px;
+    background-color: #4985FF;
+    border-radius: 30px;
+    color: white;
+    border: 1px;
+    cursor: pointer;
+}
+
+#Block2_full{
+    text-align: center;
+    width: 1113px;
+    margin: 0 auto;
+}
+
+.Block2_text h2{
+    font-size: 36px;
+    font-weight: 700;
+    color: #323232;
+}
+
+.Block2_text p{
+    color: #999999;
+    font-size: 13px;
+}
+
+.Block2_footer div{
+    float: left;
+    margin-left: 0%;
+    width: 353px;
+    height: 139px;
+}
+
+.Block2_footer h3{
+    font-size: 18px;
+    font-weight: 600;
+    position: relative;
+    left: 35%;
+    bottom: 50px;
+}
+
+.Block2_footer p{
+    position: relative;
+    left: 40%;
+    bottom: 50px;
+}
+
+#Block2_full button{
+    width: 200px;
+    height: 45px;
+    background-color: #4985FF;
+    color: white;
+    border: 1px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+#Block3_full{
+    width: 1110px;
+    margin: 0 auto;
+    background-color: #e0e0e0;
+    display: flow-root;
+}
+
+.Block3_text h2{
+    color: #323232;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 52.66px;
+}
+
+.Block3_text p{
+    color: #999999;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.Block3_text a{
+    color: #4985FF;
+}
+
+.Block3_text{
+    float: left;
+    padding-top: 214px;
+}
+
+#Block3{
+    display: block;
+}
+
+#Block3_img{
+    padding-top: 162px;
+    padding-left: 54%;
+}
+
+#Block3_footer div{
+    float: left;
+    width: 104px;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+
+#Block3_footer div img{
+    float: left;
+}
+
+#Block3_footer div h2{
+    float: left;
+    display: contents;
+    font-weight: 400;
+}
+
+#Block3_footer div p{
+    color: #999999;
+    font-size: 14px;
+}
+
+#Block4_center div{
+    float: left;
+    margin-top: 135px;
+    margin-left: 30px;
+}
+
+#Block4_center{
+    margin-left: 20%;
+    display: flex;
+}
+
+
+#Block4_full{
+    height: 490px;
+    background-image: url(/home/abdurahman/Desktop/windows/bba1.png);
+}
+
+.Block4_text h2{
+    font-size: 36px;
+    font-weight: 700;
+    color: white;
+    margin-left: 405px;
+}
+
+.Block4_text{
+    margin-top: 20px;
+}
+
+#Block4_full button{
+    float: right;
+    border: 1px;
+    border-radius: 30px;
+    background-color: #4985FF;
+    color: white;
+    width: 200px;
+    height: 45px;
+    font-size: 18px;
+    margin-right: 405px;
+}
+
+#Block4_center span{
+    color: #4985FF;
+}
+
+#Block5{
+    background-color: #e0e0e0;
+}
